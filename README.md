@@ -18,10 +18,7 @@ Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
   pip install -r requirements.txt
   ```
 - Edit each python scripts with your info
-    - Specify you credentials
-        - for Plex check this article on how to find your plex token https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
-        - for TMDB create an account and get you api key here there https://www.themoviedb.org/settings/api
-        - for Trakt create your account and go there https://trakt.tv/oauth/applications to create an app and retrieve your client id 
+- for TMDB create an account and get you api key here there https://www.themoviedb.org/settings/api
 - As you run one of the script it will create a new folder and add the images automatically.
 - Each time the scripts will run it will delete the content of the folder and create new images
 - if you want to edit the overlay and background image I have included the source file as a vector format 
