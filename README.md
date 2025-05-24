@@ -4,7 +4,8 @@ These are two simple scripts to retrieve TMDB  media background and use it as Wa
 
 Search TMDB movies or TV shows by ID and generate background graphics Ver.1.0.0
 
-TMDB-cli.py
+# TMDB-cli.py
+
 options:
 
   -h, --help   show this help message and exit
@@ -24,7 +25,8 @@ options:
 usage: TMDB.py [-h] [-language ] [-save-path ] [-gif-gen ] [-dura ]
 
 
-TMDB.py
+# TMDB.py
+
 options:
 
   -h, --help   show this help message and exit
