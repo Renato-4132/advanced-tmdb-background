@@ -22,9 +22,7 @@ Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
 - Each time the scripts will run it will delete the content of the folder and create new images
 - if you want to edit the overlay and background image I have included the source file as a vector format 
 
-
-![Movie_output](https://github.com/user-attachments/assets/5560f6bb-a6d3-454a-bed0-5d0ee9c4aca8)
-
+![Movie_output](https://github.com/user-attachments/assets/d12da655-d239-46e9-917d-f4f7d95f39cc)
 
 # TMDB-cli.py
 
