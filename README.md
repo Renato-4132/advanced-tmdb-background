@@ -1,9 +1,5 @@
 # Advanced TMDB Background
 
-Authors:
-# Renato
-# Smal82 https://smal82.netsons.org/
-
 These are two simple scripts to retrieve TMDB  media background and use it as Wallpaper
 You must open each .py file and add your TMDB API Read Access Token
 "Authorization": "Bearer XXXXX" , where XXXXX is your API
@@ -66,3 +62,8 @@ options:
   -dura        Timing between gif imagestype (default: 5000)
   
 usage: TMDB.py [-h] [-language ] [-save-path ] [-gif-gen ] [-dura ]
+
+# Authors:
+**Renato**
+
+**smal82** https://smal82.netsons.org/
