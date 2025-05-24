@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/language-Python-F7DF1E?logo=python&logoColor=black) ![Repo Size](https://img.shields.io/github/repo-size/Renato-4132/advanced-tmdb-background) ![Windows Support](https://img.shields.io/badge/Windows-✔️-blue?logo=windows) ![macOS Support](https://img.shields.io/badge/macOS-✔️-lightgrey?logo=apple)
+![Linux Support](https://img.shields.io/badge/Linux-✔️-yellow?logo=linux)
 # Advanced TMDB Background
 
 These are two simple scripts to retrieve TMDB  media background and use it as Wallpaper
