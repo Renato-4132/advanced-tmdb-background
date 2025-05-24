@@ -35,7 +35,7 @@ custom_text_movies = ""
 parser = argparse.ArgumentParser(description="Search TMDB movies or TV shows by ID and generate background graphics Ver.1.0.0")
 parser.add_argument("-movie-id", metavar='', type=int, help="The TMDB ID of the movie")
 parser.add_argument("-tv-id", metavar='', type=int, help="The TMDB ID of the TV show")
-parser.add_argument('-language', metavar='', type=str, default="it-IT", help="Language code for TMDB metadata " "type (default: %(default)s)")
+parser.add_argument('-language', metavar='', type=str, default="it", help="Language code for TMDB metadata " "type (default: %(default)s)")
 parser.add_argument('-save-path', metavar='', type=str, default="tmdb_backgrounds/", help="Directory where the output will be saved " "type (default: %(default)s)")
 parser.add_argument("-gif-gen", metavar='', type=str,help="Generate gifs y=generate (movie_id Scan Skipped)")
 parser.add_argument("-dura", metavar='', type=int,default="5000", help="Timing between gif images" "type (default: %(default)s)")
