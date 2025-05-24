@@ -14,7 +14,7 @@ options:
   
   -tv-id       The TMDB ID of the TV show
   
-  -language    Language code for TMDB metadata type (default: it-IT)
+  -language    Language code for TMDB metadata type (default: it)
   
   -save-path   Directory where the output will be saved type (default: tmdb_backgrounds/)
   
