@@ -3,9 +3,10 @@
 These are two simple scripts to retrieve TMDB  media background and use it as Wallpaper
 You must open each .py file and add your TMDB API Read Access Token
 "Authorization": "Bearer XXXXX" , where XXXXX is your API
-Search TMDB movies or TV shows by ID and generate background graphics Ver.1.0.0
+Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
 
-![Andor](https://github.com/user-attachments/assets/f146e4d6-eae6-4526-9ffd-e3d1ef3f3852)
+![Movie_output](https://github.com/user-attachments/assets/5560f6bb-a6d3-454a-bed0-5d0ee9c4aca8)
+
 
 # TMDB-cli.py
 
