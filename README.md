@@ -1,10 +1,14 @@
 ![Language](https://img.shields.io/badge/language-Python-F7DF1E?logo=python&logoColor=black) ![Repo Size](https://img.shields.io/github/repo-size/Renato-4132/advanced-tmdb-background) ![Windows Support](https://img.shields.io/badge/Windows-✔️-blue?logo=windows) ![macOS Support](https://img.shields.io/badge/macOS-✔️-lightgrey?logo=apple)
 ![Linux Support](https://img.shields.io/badge/Linux-✔️-yellow?logo=linux)
+
 # Advanced TMDB Background
 
 These are two simple scripts to retrieve TMDB  media background and use it as Wallpaper
+
 You must open each .py file and add your TMDB API Read Access Token
+
 "Authorization": "Bearer XXXXX" , where XXXXX is your API
+
 Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
 
 ![Movie_output](https://github.com/user-attachments/assets/d12da655-d239-46e9-917d-f4f7d95f39cc)
