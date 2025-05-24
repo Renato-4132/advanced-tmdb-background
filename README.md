@@ -5,6 +5,8 @@ You must open each .py file and add your TMDB API Read Access Token
 "Authorization": "Bearer XXXXX" , where XXXXX is your API
 Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
 
+![Movie_output](https://github.com/user-attachments/assets/d12da655-d239-46e9-917d-f4f7d95f39cc)
+
 **How to :**
 - install latest version of python (https://www.python.org/downloads/)
 - Install pip (follow the process here https://pip.pypa.io/en/stable/installation/)
@@ -22,7 +24,6 @@ Search TMDB movie or TV shows by ID and generate background graphics Ver.1.0.0
 - Each time the scripts will run it will delete the content of the folder and create new images
 - if you want to edit the overlay and background image I have included the source file as a vector format 
 
-![Movie_output](https://github.com/user-attachments/assets/d12da655-d239-46e9-917d-f4f7d95f39cc)
 
 # TMDB-cli.py
 
